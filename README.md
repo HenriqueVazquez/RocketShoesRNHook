@@ -9,7 +9,7 @@
 <p align="center">“Sucesso não é o resultado de um jogo, mas o destino de uma jornada”!</blockquote>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/HenriqueVazquez/rocketShoesMobile?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/HenriqueVazquez/RocketShoesRNHook?color=%2304D361">
 
   <a href="https://www.linkedin.com/in/henrique-vazquez-11905ab6">
     <img alt="Made by Henrique Vazquez" src="https://img.shields.io/badge/made%20by-HenriqueVazquez-%2304D361">
@@ -17,8 +17,8 @@
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
 
-  <a href="https://github.com/HenriqueVazquez/rocketShoesMobile/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/HenriqueVazquez/rocketShoesMobile?style=social">
+  <a href="https://github.com/HenriqueVazquez/RocketShoesRNHook/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/HenriqueVazquez/RocketShoesRNHook?style=social">
   </a>
 </p>
 
@@ -93,25 +93,32 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## Teste da aplicação / application test
 
 <div align="center">
-<img alt="User" src="https://github.com/HenriqueVazquez/rocketShoesMobile/blob/main/screenShot/appgif.gif">
+<img alt="User" src="https://github.com/HenriqueVazquez/RocketShoesRNHook/blob/main/screenShot/appgif.gif">
   </div>
+  
+  ## Splash
+
+<div align="center">
+<img alt="Main" src="https://github.com/HenriqueVazquez/RocketShoesRNHook/blob/main/screenShot/splash.jpeg">
+</div>
+
 
 ## Tela principal / Main screen
 
 <div align="center">
-<img alt="Main" src="https://github.com/HenriqueVazquez/rocketShoesMobile/blob/main/screenShot/Main.jpeg">
+<img alt="Main" src="https://github.com/HenriqueVazquez/RocketShoesRNHook/blob/main/screenShot/Main.jpeg">
 </div>
 
 ## Tela do cart / card screen
 
 <div align="center">
-<img alt="Cart" src="https://github.com/HenriqueVazquez/rocketShoesMobile/blob/main/screenShot/Cart.jpeg">
+<img alt="Cart" src="https://github.com/HenriqueVazquez/RocketShoesRNHook/blob/main/screenShot/Cart.jpeg">
   </div>
 
 ## Tela do cart vazio / empty cart screen
 
   <div align="center">
-  <img alt="Cart" src="https://github.com/HenriqueVazquez/rocketShoesMobile/blob/main/screenShot/empty%20car.jpeg">
+  <img alt="Cart" src="https://github.com/HenriqueVazquez/RocketShoesRNHook/blob/main/screenShot/empty%20car.jpeg">
     </div>
 
 ##
