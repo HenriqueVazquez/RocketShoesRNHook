@@ -4,6 +4,7 @@
 
 <h3 align="center">
   Desafio mobile da aplicação rocketShoes utilizando arquitetura Flux utilizando redux, saga e react hook.
+  Mobile challenge of the rocketShoes application using Flux architecture using redux, saga and react hook.
 </h3>
 
 <p align="center">“Sucesso não é o resultado de um jogo, mas o destino de uma jornada”!</blockquote>
